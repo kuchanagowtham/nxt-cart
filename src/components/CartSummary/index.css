@@ -1,0 +1,45 @@
+.order-heading {
+  font-size: 20px;
+  color: #616e7c;
+  font-family: 'Roboto';
+  margin-bottom: 2px;
+  padding-bottom: 0px;
+  align-self: flex-end;
+}
+
+.price {
+  font-size: 25px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #171f46;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.cart-length {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 15px;
+  align-self: flex-end;
+}
+
+.check-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  width: 200px;
+  height: 30px;
+  font-size: 15px;
+  align-self: flex-end;
+}
+.cart-summary {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+/* @media screen and (min-width: 768px) {
+  .cart-summary {
+    margin-left: 850px;
+  }
+} */

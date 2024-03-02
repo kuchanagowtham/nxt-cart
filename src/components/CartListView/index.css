@@ -1,0 +1,14 @@
+.cart-list {
+  padding-left: 0px;
+}
+
+.removeall {
+  background-color: transparent;
+
+  align-self: flex-end;
+  color: #0b69ff;
+  border: none;
+  outline: none;
+  font-weight: 700;
+  font-size: 15px;
+}
